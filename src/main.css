@@ -1,0 +1,10 @@
+@media query {
+  .min{
+    min-width: 520px;
+
+  }
+  img{
+    width: 300px;
+    height: 300px;
+  }
+}
